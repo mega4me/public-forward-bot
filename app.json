@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/Greymattersbot/public-forward-bot",
+  "repository": "https://github.com/mega4me/public-forward-bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
